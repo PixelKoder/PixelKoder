@@ -2,6 +2,6 @@
 - 👀 I’m interested in Minecraft
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on Minecraft Clients
-- 📫 How to reach me pixelkoder
+- 📫 How to reach me discord at `pixelkoder`
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: You are alive
+- ⚡ Fun fact: I am leaning Japanese
