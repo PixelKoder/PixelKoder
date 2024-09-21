@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @PixelKoder
+- 👀 I’m interested in Minecraft
+- 🌱 I’m currently learning C
+- 💞️ I’m looking to collaborate on Minecraft Clients
+- 📫 How to reach me pixelkoder
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: You are alive
